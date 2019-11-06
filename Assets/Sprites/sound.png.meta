@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: b515b48d9471d564b9e210442fd8d2ea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sound_0
+    21300002: sound_1
+    21300004: sound_2
+    21300006: sound_3
+    21300008: sound_4
+    21300010: sound_5
+    21300012: sound_6
+    21300014: sound_7
+    21300016: sound_8
+    21300018: sound_9
+    21300020: sound_10
+    21300022: sound_11
+    21300024: sound_12
+    21300026: sound_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: sound_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 87
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 108
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 87
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 27
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 74
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 145
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 103
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 61
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
